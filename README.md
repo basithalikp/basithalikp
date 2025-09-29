@@ -1,5 +1,6 @@
 <p align="center">
-  ![NightCoding](https://github.com/user-attachments/assets/df155c49-fc99-47a4-a0a1-0df82792876d)
+ ![Alt text](https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif)
+
 </p>
 
 <h1 align="center">Hi, I'm Basith Ali KP 👋</h1>
