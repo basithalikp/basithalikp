@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/2189ff92-5765-4f7d-972f-9a907b2c11ba" />
+  ![NightCoding](https://github.com/user-attachments/assets/df155c49-fc99-47a4-a0a1-0df82792876d)
 </p>
 
 <h1 align="center">Hi, I'm Basith Ali KP 👋</h1>
