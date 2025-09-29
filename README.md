@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="400" />
+  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/2189ff92-5765-4f7d-972f-9a907b2c11ba" />
 </p>
 
 <h1 align="center">Hi, I'm Basith Ali KP 👋</h1>
@@ -13,10 +13,10 @@
   Enthusiast and learner—always coding or exploring new tech. I find programming and anything computer-related absolutely intoxicating.
 </p>
 
-- 🌱 I’m currently diving deeper into **Django and System Architecture with Gem5**.
+- 🌱 I’m currently diving deeper into **React, Java and System Architecture with Gem5**.
 - 🐧 I use **Arch**, btw.
 - 🏋️‍♂️ When I'm not coding, you'll find me at the gym—I'm a bodybuilder too!
-- 📫 How to reach me: **[Your Email Address]**
+- 📫 How to reach me: **[sithukp50@gmail.com]**
 - 🚀 Check out my favorite projects below!
 
 ---
