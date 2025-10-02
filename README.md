@@ -1,5 +1,5 @@
 
- ![Alt text](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+ ![Alt text](https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif)
 
 <h1 align="center">Hi, I'm Basith Ali KP 👋</h1>
 <h3 align="center">BTech CS Student | Programmer | Lifelong Learner</h3>
