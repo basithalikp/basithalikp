@@ -1,5 +1,5 @@
 <p align="center">
- ![Alt text](https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif)
+ ![Alt text](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
 </p>
 
