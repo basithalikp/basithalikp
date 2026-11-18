@@ -55,9 +55,9 @@
 
 <h3 align="left">🚀 Favorite Projects:</h3>
 
-- [**Psuedo Crypto  Currency**](https://github.com/basithalikp/pseudo-crypto): A partially decentralized pseudo crypto currency for casual child games.
-- [**Pawku Chan**](https://github.com/basithalikp/pawku-chan): A playful intrusive widget that consumes your files; written in python and bash. (Quickshell version coming soon!)
-- [**ACM Student chapter website**](https://github.com/basithalikp/acm-nssce): The official [website](https://nssce.acm.org) for ACM Student chapter of NSSCE.
+- [**Fast Gallery**](https://github.com/basithalikp/flutter-gallery): An offline first fast Gallery built in flutter
+- [**LiveMap**]([https://github.com/basithalikp/pawku-chan](https://github.com/basithalikp/useless_project_temp)): An AI powered AR game with real world maps and lores
+- [**Disha**]([https://github.com/basithalikp/acm-nssce](https://github.com/Bensen8806/newone)): NSSCEs event management system - soon to be live!
 
 ---
 
