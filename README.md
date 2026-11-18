@@ -56,8 +56,8 @@
 <h3 align="left">🚀 Favorite Projects:</h3>
 
 - [**Fast Gallery**](https://github.com/basithalikp/flutter-gallery): An offline first fast Gallery built in flutter
-- [**LiveMap**]([https://github.com/basithalikp/pawku-chan](https://github.com/basithalikp/useless_project_temp)): An AI powered AR game with real world maps and lores
-- [**Disha**]([https://github.com/basithalikp/acm-nssce](https://github.com/Bensen8806/newone)): NSSCEs event management system - soon to be live!
+- [**LiveMap**](https://github.com/basithalikp/pawku-chan): An AI powered AR game with real world maps and lores
+- [**Disha**](https://github.com/basithalikp/acm-nssce): NSSCEs event management system - soon to be live!
 
 ---
 
